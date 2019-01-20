@@ -1,0 +1,6 @@
+[submodule "latex-moderncv"]
+	path = latex-moderncv
+	url = git@github.com:dloman/latex-moderncv
+[submodule "moderncv"]
+	path = moderncv
+	url = git@github.com:dloman/latex-moderncv
