@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  24 JAN 2020 15:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  24 JAN 2020 15:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**resume819.tex
-(./resume819.tex
+**resume120.tex
+(./resume120.tex
 LaTeX2e <2018-12-01>
 (./moderncv.cls
 Document Class: moderncv 2013/04/29 v1.5.1 modern curriculum vitae and letter d
@@ -785,8 +785,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 Package hyperref Info: Option `breaklinks' set `true' on input line 42.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 42.
 
-(./resume819.aux)
-\openout1 = `resume819.aux'.
+(./resume120.aux)
+\openout1 = `resume120.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
@@ -912,9 +912,9 @@ LaTeX Info: Redefining \ref on input line 42.
 LaTeX Info: Redefining \pageref on input line 42.
 LaTeX Info: Redefining \nameref on input line 42.
 
-(./resume819.out) (./resume819.out)
+(./resume120.out) (./resume120.out)
 \@outlinefile=\write4
-\openout4 = `resume819.out'.
+\openout4 = `resume120.out'.
 
 \makecvtitledetailsbox=\box60
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 45.
@@ -976,10 +976,10 @@ Overfull \hbox (0.76617pt too wide) in paragraph at lines 103--103
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 118.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 118.
 
-(./resume819.aux)
+(./resume120.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 118.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 118.
-Package rerunfilecheck Info: File `resume819.out' has not changed.
+Package rerunfilecheck Info: File `resume120.out' has not changed.
 (rerunfilecheck)             Checksum: 85B18B2A9B2F428EDB0C07B72DE10ADA;451.
  ) 
 Here is how much of TeX's memory you used:
@@ -998,7 +998,7 @@ type1/public/lm/lmss17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/publ
 ic/lm/lmssbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lm
 sso10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on resume819.pdf (1 page, 133541 bytes).
+Output written on resume120.pdf (1 page, 133541 bytes).
 PDF statistics:
  64 PDF objects out of 1000 (max. 8388607)
  53 compressed objects within 1 object stream
