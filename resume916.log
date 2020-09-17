@@ -2,8 +2,8 @@ This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**resume820.tex
-(./resume820.tex
+**resume916.tex
+(./resume916.tex
 LaTeX2e <2018-12-01>
 (./moderncv.cls
 Document Class: moderncv 2013/04/29 v1.5.1 modern curriculum vitae and letter d
@@ -785,8 +785,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 Package hyperref Info: Option `breaklinks' set `true' on input line 42.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 42.
 
-(./resume820.aux)
-\openout1 = `resume820.aux'.
+No file resume916.aux.
+\openout1 = `resume916.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
@@ -805,7 +805,7 @@ LaTeX Font Info:    ... okay on input line 42.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 42.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/lm/t1lmr.fd
+(/usr/local/texlive/2019/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -911,10 +911,8 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 42.
 LaTeX Info: Redefining \pageref on input line 42.
 LaTeX Info: Redefining \nameref on input line 42.
-
-(./resume820.out) (./resume820.out)
 \@outlinefile=\write4
-\openout4 = `resume820.out'.
+\openout4 = `resume916.out'.
 
 \makecvtitledetailsbox=\box60
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 45.
@@ -976,17 +974,24 @@ Overfull \hbox (0.76617pt too wide) in paragraph at lines 94--94
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 109.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 109.
 
-(./resume820.aux)
+(./resume916.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 109.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 109.
-Package rerunfilecheck Info: File `resume820.out' has not changed.
-(rerunfilecheck)             Checksum: 57FC0AE6114D5C4C9505103E38DBDA31;431.
+
+
+Package rerunfilecheck Warning: File `resume916.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `resume916.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  57FC0AE6114D5C4C9505103E38DBDA31;431.
  ) 
 Here is how much of TeX's memory you used:
- 30936 strings out of 492616
- 573299 string characters out of 6129482
- 635757 words of memory out of 5000000
- 34437 multiletter control sequences out of 15000+600000
+ 30926 strings out of 492616
+ 573177 string characters out of 6129482
+ 635653 words of memory out of 5000000
+ 34433 multiletter control sequences out of 15000+600000
  596833 words of font info for 89 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,12n,65p,775b,629s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -998,10 +1003,10 @@ type1/public/lm/lmss17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/publ
 ic/lm/lmssbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lm
 sso10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on resume820.pdf (1 page, 134211 bytes).
+Output written on resume916.pdf (1 page, 133945 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
- 53 compressed objects within 1 object stream
+ 54 PDF objects out of 1000 (max. 8388607)
+ 43 compressed objects within 1 object stream
  5 named destinations out of 1000 (max. 500000)
- 23589 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 23565 words of extra memory for PDF output out of 24883 (max. 10000000)
 
